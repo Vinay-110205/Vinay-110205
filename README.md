@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pavan CG!</h1>
+<h1 align="center">Hi 👋, I'm V Vinay!</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
 <p align="center">
