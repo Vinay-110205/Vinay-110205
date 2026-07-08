@@ -99,7 +99,7 @@ Alligns the clothes on the user using AR.
 
 &nbsp;&nbsp;
 
-<a href="https://www.linkedin.com/" target="_blank">
+<a href="www.linkedin.com/in/v-vinay-b691ba269" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40"/>
 </a>
 
