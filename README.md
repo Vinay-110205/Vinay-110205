@@ -88,26 +88,6 @@ Alligns the clothes on the user using AR.
 
 <hr>
 
-<h2>📊 GitHub Stats</h2>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vinay-110205&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinay-110205&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vinay-110205&theme=tokyonight" />
-</p>
-
-<hr>
-
-<h2>🏆 GitHub Trophies</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vinay-110205&theme=tokyonight&row=1&column=7" />
-</p>
-
-<hr>
 
 <h2>🌐 Connect With Me</h2>
 
