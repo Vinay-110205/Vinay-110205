@@ -21,9 +21,9 @@
 
 💻 Passionate about Full Stack Development
 
-🌱 Currently learning <b>React.js, Node.js, Python & AI</b>
+🌱 Currently learning <b>HTML, CSS, Javascript, Python Full Stack Developement </b>
 
-🚀 Interested in Web Development, Machine Learning & Open Source
+🚀 Interested in Web Development,& Open Source
 
 📚 Always exploring new technologies and building projects
 
@@ -45,13 +45,13 @@
 <h3>Languages</h3>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,Mysql" />
 </p>
 
 <h3>Frameworks & Technologies</h3>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
 </p>
 
 <hr>
@@ -78,13 +78,13 @@ AI-based virtual try-on system for clothing using Deep Learning.
 
 <br><br>
 
-<h3>🎓 Smart Student Management System</h3>
+<h3>🎓 AR Tryon clothes on user</h3>
 
 <p>
-Student records and attendance management platform.
+Alligns the clothes on the user using AR.
 </p>
 
-<b>Tech Stack:</b> React.js, Node.js, Express.js, MongoDB
+<b>Tech Stack:</b> Python, ML Tools
 
 <hr>
 
