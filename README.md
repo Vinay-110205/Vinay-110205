@@ -99,15 +99,13 @@ Alligns the clothes on the user using AR.
 
 &nbsp;&nbsp;
 
-<a href="www.linkedin.com/in/v-vinay-b691ba269" target="_blank">
+<a href="https://www.linkedin.com/in/v-vinay-b691ba269" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40"/>
 </a>
 
 &nbsp;&nbsp;
 
-<a href="https://leetcode.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="40"/>
-</a>
+
 
 </p>
 
